@@ -50,9 +50,9 @@ function App() {
       >
         <div className="p-5  rounded-lg">
           <a href="#">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-black font-bold text-shadow-orange-100">Black Myth: Wukong</h5>
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-black  text-shadow-orange-100">Black Myth: Wukong</h5>
           </a>
-          <p className="mb-3 font-normal font-bold">
+          <p className="mb-3 font-bold">
             Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
           </p>
           <a

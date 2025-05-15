@@ -5,7 +5,7 @@ import App from './App.jsx'
 import Header from './Component/Header.jsx'
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom'
 import Layout from './Layout.jsx'
-import Contact from './Component/contact.jsx'
+import Contact from './Component/Contact.jsx'
 import About from './Component/About.jsx'
 import Footer from './Component/Footer.jsx'
 
